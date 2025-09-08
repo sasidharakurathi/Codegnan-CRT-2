@@ -1,0 +1,6 @@
+1. write a java program to swap given two numbers using third variable
+2. write a java program to swap given two numbers without using third variable  (a=a+b;b=a-b;a=a-b)
+3. write a java program to print the 
+    a. area of the triangle     (0.5*base*height)
+    b. area of the rhombus      (0.5*diagonal1*diagonal2)
+    c. area of the trapezium    (height*0.5*(a+b))
