@@ -1,6 +1,66 @@
-1. write a java program to swap given two numbers using third variable
-2. write a java program to swap given two numbers without using third variable  (a=a+b;b=a-b;a=a-b)
-3. write a java program to print the 
-    a. area of the triangle     (0.5*base*height)
-    b. area of the rhombus      (0.5*diagonal1*diagonal2)
-    c. area of the trapezium    (height*0.5*(a+b))
+Day 1 Assignment:   (08-09-2025)
+
+    1. write a java program to swap given two numbers using third variable
+    2. write a java program to swap given two numbers without using third variable  (a=a+b;b=a-b;a=a-b)
+    3. write a java program to print the 
+        a. area of the triangle     (0.5*base*height)
+        b. area of the rhombus      (0.5*diagonal1*diagonal2)
+        c. area of the trapezium    (height*0.5*(a+b))
+
+
+Day 2:  (09-09-2025)
+    Operators:
+        Operator is a symbol that can perform the symbol related operations among the operands or variables.
+        Ex:
+            + addition
+            - subtraction
+            * multiplication
+            / division
+            % modulus
+        
+        Different types of operators:
+            1. Arithmetic operators (+,-,*,/,%)
+            2. Relational operators (>,<,==,!=,<=,>=)
+            3. Logical operators (&&,||, !)
+            4. Assignment operators (=,+=,-=,*=,/=,%=)
+            5. Ternary operators (condition ? true statement : false statement)
+            6. Increment and Decrement operators (++ , --)
+
+
+    Conditional statements:
+        The statements are executed based on the condition.
+    
+        1. Decision / Selection method:
+            i. single way selection
+                if, if-else, if-else-if, nested if
+                    Program: write a java program to print largest of two numbers using if else.
+                
+            ii. multi way selection
+        
+        2. Loops
+            i. while
+            ii. do-while
+            iii. for
+            iv. for each
+
+        3. Jumping Statements
+            
+
+
+Day 4: (11-09-2025)
+    Web Developement Roadmap:
+        HTML
+        CSS
+        Bootstrap / Tailwind CSS
+        JavaScript
+        ReactJS (modules)
+        Redux
+        NodeJS
+        ExpressJS
+        MongoDB
+        RestAPI's
+        Github
+        Deployment
+
+
+
